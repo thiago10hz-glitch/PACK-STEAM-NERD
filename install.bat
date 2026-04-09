@@ -9,7 +9,7 @@ mode con: cols=90 lines=25
 :: =====================================================
 set "ARQUIVO_ZIP=Pmw games unlock.zip"
 set "URL_FIX=https://raw.githubusercontent.com/KRAYz-Oficial/KRAYz-Oficial/67065f398be63e1fe2c29ef2838f3030490eb3b6/Remover-bugs.ps1"
-set "URL_AGRADECIMENTO=https://agradecimentopmw.lovable.app"
+set ""
 
 :: =====================================================
 :: INTERFACE INICIAL
